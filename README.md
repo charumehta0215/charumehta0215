@@ -10,7 +10,6 @@
 - **Backend:** Node.js · Express.js · Rust  
 - **Languages:** Python · JavaScript · C++  
 - **Databases:** SQL · MongoDB  
-- **Web3:** Smart contracts on Internet Computer · DAO governance  
 - **Core Skills:** Data Structures · Algorithms · Problem-Solving  
 - 🌱 Currently exploring **System Design & Scalable Architectures**  
 
