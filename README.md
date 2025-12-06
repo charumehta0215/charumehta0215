@@ -22,7 +22,7 @@
 - **Hackathon Mentor**  
   Guided teams at ICP Hub, Hacker House & BlockSeBlock on backend, AI, and full-stack solutions.  
 
-- **Community Contributor @OpenXAI**  
+- **Community Contributor @OpenxAI**  
   Authored docs, guides & demos to simplify developer onboarding.  
 
 ---
