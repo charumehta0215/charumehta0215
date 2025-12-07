@@ -12,7 +12,7 @@ Passionate about system design, caching, distributed systems, API engineering, a
 **Auth:** Firebase Auth · JWT  
 **Languages:** JavaScript · Python · C++ · Rust  
 **Core Skills:** REST APIs · Caching · Rate Limiting · DB Optimization · System Design · Problem Solving  
-**Tools:** Git · Docker (basic) · Postman  
+**Tools:** Git ·Github· Postman  
 
 ---
 
