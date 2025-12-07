@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Charu Mehta**  
-### **Backend Developer — Node.js | Redis | MongoDB | Scalable Systems**
+### **Backend / Software Engineer | APIs · Databases · Performance**
 
 A backend engineer focused on building **high-performance, secure, and scalable systems** using modern backend technologies.  
 Passionate about system design, caching, distributed systems, API engineering, and real-world problem solving.
