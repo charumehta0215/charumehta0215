@@ -1,37 +1,58 @@
-# 👋 Hi, I'm Charu Mehta  
+# 👋 Hi, I'm **Charu Mehta**  
+### **Backend Developer — Node.js | Redis | MongoDB | Scalable Systems**
 
-**Backend Developer** | APIs · Databases · Scalable Systems  
-
-💡 Passionate about crafting efficient backend systems across **Web2 & Web3**, with a focus on problem-solving, scalability, and learning system design for real-world impact.  
-
----
-
-## ⚡ Tech Snapshot  
-- **Backend:** Node.js · Express.js · Rust  
-- **Languages:** Python · JavaScript · C++  
-- **Databases:** SQL · MongoDB  
-- **Core Skills:** Data Structures · Algorithms · Problem-Solving  
-- 🌱 Currently exploring **System Design & Scalable Architectures**  
+A backend engineer focused on building **high-performance, secure, and scalable systems** using modern backend technologies.  
+Passionate about system design, caching, distributed systems, API engineering, and real-world problem solving.
 
 ---
 
-## 💼 Experience & Contributions  
-- **Backend Developer @QuadB Technologies**  
-  Built REST APIs, authentication & transactional workflows, optimized DB queries, and designed Rust-based smart contracts.  
+## ⚡ **Tech Stack**
 
-- **Hackathon Mentor**  
-  Guided teams at ICP Hub, Hacker House & BlockSeBlock on backend, AI, and full-stack solutions.  
-
-- **Community Contributor @OpenxAI**  
-  Authored docs, guides & demos to simplify developer onboarding.  
+**Backend:** Node.js · Express.js · Redis · MongoDB  
+**Auth:** Firebase Auth · JWT  
+**Languages:** JavaScript · Python · C++ · Rust  
+**Core Skills:** REST APIs · Caching · Rate Limiting · DB Optimization · System Design · Problem Solving  
+**Tools:** Git · Docker (basic) · Postman  
 
 ---
 
-## 📫 Connect with Me  
-- 📧 [Email](mailto:mehtacharu0215@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/charu-mehta150)  
-- 🐦 [Twitter](https://x.com/CharuMe56048468)  
-- 💻 [GitHub](https://github.com/charumehta0215)  
+## 🚀 **Featured Projects**
+
+### 🔗 **SmartShort – URL Shortener (Production-Ready)**  
+**Node.js | Express | MongoDB | Redis | Firebase Auth | GeoIP**
+
+A scalable URL shortening platform with:  
+- Redis-based rate limiting (500 req/15 min)  
+- Firebase + JWT authentication  
+- GeoIP country analytics  
+- Referrer & IP tracking  
+- Custom slug generation  
+- Secure validation + modular service architecture  
+
+🔹 **Live:** *https://qr-url.vercel.app/*  
+🔹 **Backend Repo:** *https://github.com/charumehta0215/smart-url-shortener*
 
 ---
-✨ *Driven by curiosity. Focused on results.* 🚀
+
+## 💼 **Experience**
+
+### **Backend Developer @ QuadB Technologies**  
+- Built scalable REST APIs, authentication flows, and backend modules.  
+- Implemented caching, validation layers, and rate limiting for stability.  
+- Worked with MongoDB, Redis, Firebase Auth, JWT, and Rust (ICP).  
+- Collaborated with cross-functional teams and wrote internal documentation.
+
+### **OpenXAI Contributor**  
+Documentation, demos, and guides to improve developer onboarding.
+
+---
+
+## 📫 **Connect With Me**
+
+📧 Email: **mehtacharu0215@gmail.com**  
+💼 LinkedIn: **https://linkedin.com/in/charu-mehta150**  
+💻 GitHub: **https://github.com/charumehta0215**
+
+---
+
+✨ **Focused on backend engineering. Driven by curiosity. Building systems that scale.** 🚀
